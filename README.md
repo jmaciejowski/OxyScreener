@@ -128,6 +128,10 @@ of the polymorphic structures with the lowest **energy above hull**
 polymorphism.
 3) The program doesn't output the crystallographic data of the supports.
 
+## Contact
+If you have any questions or found a bug, feel free to reach out:
+- **Email:** jmaciejowski0@gmail.com
+- **GitHub Issues:** [Open an issue here](https://github.com/jmaciejowski/OxyScreener/issues)
 
 # Literature:
 [1] Dickens, Colin F., et al. "An electronic structure descriptor for oxygen reactivity at metal and metal-oxide surfaces." Surface Science 681 (2019): 122-129.
